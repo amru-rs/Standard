@@ -33,6 +33,7 @@ namespace Standard.Controllers
             ViewBag.projects = projects;
             ViewBag.users = users;
 
+            // test add new comment
             return View();
         }
 
